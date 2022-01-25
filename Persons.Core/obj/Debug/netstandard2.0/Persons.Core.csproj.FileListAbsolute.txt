@@ -1,0 +1,9 @@
+C:\Users\Ferhat\source\netcoreApp\TelephoneDirectoryApp\Persons.Core\bin\Debug\netstandard2.0\Persons.Core.deps.json
+C:\Users\Ferhat\source\netcoreApp\TelephoneDirectoryApp\Persons.Core\bin\Debug\netstandard2.0\Persons.Core.dll
+C:\Users\Ferhat\source\netcoreApp\TelephoneDirectoryApp\Persons.Core\bin\Debug\netstandard2.0\Persons.Core.pdb
+C:\Users\Ferhat\source\netcoreApp\TelephoneDirectoryApp\Persons.Core\obj\Debug\netstandard2.0\Persons.Core.csprojAssemblyReference.cache
+C:\Users\Ferhat\source\netcoreApp\TelephoneDirectoryApp\Persons.Core\obj\Debug\netstandard2.0\Persons.Core.AssemblyInfoInputs.cache
+C:\Users\Ferhat\source\netcoreApp\TelephoneDirectoryApp\Persons.Core\obj\Debug\netstandard2.0\Persons.Core.AssemblyInfo.cs
+C:\Users\Ferhat\source\netcoreApp\TelephoneDirectoryApp\Persons.Core\obj\Debug\netstandard2.0\Persons.Core.csproj.CoreCompileInputs.cache
+C:\Users\Ferhat\source\netcoreApp\TelephoneDirectoryApp\Persons.Core\obj\Debug\netstandard2.0\Persons.Core.dll
+C:\Users\Ferhat\source\netcoreApp\TelephoneDirectoryApp\Persons.Core\obj\Debug\netstandard2.0\Persons.Core.pdb

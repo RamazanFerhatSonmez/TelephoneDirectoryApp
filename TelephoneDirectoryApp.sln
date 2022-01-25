@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TelephoneDirectoryApp", "TelephoneDirectoryApp\TelephoneDirectoryApp.csproj", "{B990B316-6F1A-4BEC-9BCB-CD1FF2A1D096}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Persons.Core", "Persons.Core\Persons.Core.csproj", "{C138888B-462C-440C-BC9B-68F35E9EBB43}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B990B316-6F1A-4BEC-9BCB-CD1FF2A1D096}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B990B316-6F1A-4BEC-9BCB-CD1FF2A1D096}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B990B316-6F1A-4BEC-9BCB-CD1FF2A1D096}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B990B316-6F1A-4BEC-9BCB-CD1FF2A1D096}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C138888B-462C-440C-BC9B-68F35E9EBB43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C138888B-462C-440C-BC9B-68F35E9EBB43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C138888B-462C-440C-BC9B-68F35E9EBB43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C138888B-462C-440C-BC9B-68F35E9EBB43}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {45130B07-7E3C-4FA1-A51B-626248C5ECA3}
+	EndGlobalSection
+EndGlobal
