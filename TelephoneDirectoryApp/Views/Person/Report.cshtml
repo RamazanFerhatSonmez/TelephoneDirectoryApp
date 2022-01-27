@@ -1,0 +1,52 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Details</title>
+</head>
+<body>
+    <div>
+        <h4>Person</h4>
+        <hr />
+        <dl class="row">
+            <dt class="col-sm-2">
+                Name
+            </dt>
+            <dd class="col-sm-10">
+                @ViewBag.person.Name
+            </dd>
+            <dt class="col-sm-2">
+                Surname
+            </dt>
+            <dd class="col-sm-10">
+                @ViewBag.person.Surname
+            </dd>
+            <dt class="col-sm-2">
+                Company
+            </dt>
+            <dd class="col-sm-10">
+                @ViewBag.person.Company
+            </dd>
+        </dl>
+        <h5>Contact Info</h5>
+        <hr />
+        <dl class="row">
+            @foreach (var item in ViewBag.contactInfo)
+            {
+                <dt class="col-sm-2">
+                    @item.type
+                </dt>
+                <dd class="col-sm-10">
+                    @item.Info
+                </dd>
+            }
+        </dl>
+        <form asp-action="Report">
+            <input type="submit" value="Report" class="btn btn-danger" /> |
+            <a asp-action="Index">Back to List</a>
+        </form>
+    </div>
+
+</body>
+</html>
