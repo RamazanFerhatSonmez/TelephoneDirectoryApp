@@ -87,5 +87,39 @@ namespace TelephoneDirectoryApp.Controllers
             ViewBag.Mgs = "Person Contact Info has been saved.";
             return RedirectToAction("Index");
         }
+        public IActionResult Report(string id)
+        {
+            var database = client.GetDatabase("TelephoneDirectoryDb");
+            var tablePerson = database.GetCollection<Person>("Persons");
+            var tableContact = database.GetCollection<ContactInfo>("ContactInfo");
+            var person = tablePerson.Find(p => p.UUID == id).FirstOrDefault();
+
+            var contactInfo = tableContact.Find(p => p.personUUID == id).ToList();
+            ViewBag.person = person;
+            ViewBag.contactInfo = contactInfo;
+            return View();
+        }
+        [HttpPost]
+        public IActionResult Report(Report report, string id)
+        {
+            var database = client.GetDatabase("TelephoneDirectoryDb");
+            var tableReport = database.GetCollection<Report>("Report");
+            report.status = "Hazırlanıyor";
+            report.UUID = id;
+            report.Id = null;
+            report.createdAt = DateTime.Now;
+            tableReport.InsertOne(report);
+            ViewBag.Mgs = "Generated Report.";
+
+            return RedirectToAction("Index");
+        }
+        public IActionResult GeneratedReports()
+        {
+            var database = client.GetDatabase("TelephoneDirectoryDb");
+            var tableReport = database.GetCollection<Report>("Report");
+            var reports = tableReport.Find(repor => true).ToList();
+
+            return View(reports);
+        }
     }
 }

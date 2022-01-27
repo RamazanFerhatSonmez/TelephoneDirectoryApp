@@ -147,3 +147,5 @@ C:\Users\Ferhat\Desktop\TelephoneDirectoryApp\TelephoneDirectoryApp\obj\Debug\ne
 C:\Users\Ferhat\Desktop\TelephoneDirectoryApp\TelephoneDirectoryApp\obj\Debug\net5.0\Razor\Views\Person\CreateContact.cshtml.g.cs
 C:\Users\Ferhat\Desktop\TelephoneDirectoryApp\TelephoneDirectoryApp\obj\Debug\net5.0\Razor\Views\Person\Delete.cshtml.g.cs
 C:\Users\Ferhat\Desktop\TelephoneDirectoryApp\TelephoneDirectoryApp\obj\Debug\net5.0\Razor\Views\Person\Details.cshtml.g.cs
+C:\Users\Ferhat\Desktop\TelephoneDirectoryApp\TelephoneDirectoryApp\obj\Debug\net5.0\Razor\Views\Person\Report.cshtml.g.cs
+C:\Users\Ferhat\Desktop\TelephoneDirectoryApp\TelephoneDirectoryApp\obj\Debug\net5.0\Razor\Views\Person\GeneratedReports.cshtml.g.cs
