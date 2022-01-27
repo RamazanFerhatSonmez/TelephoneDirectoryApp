@@ -1,0 +1,2 @@
+# TelephoneDirectoryApp
+Telefon rehber uygulaması
