@@ -2,6 +2,7 @@
 using MongoDB.Driver;
 using System;
 using System.Collections.Generic;
+using System.Dynamic;
 using System.Linq;
 using System.Threading.Tasks;
 using TelephoneDirectoryApp.Models;
@@ -35,6 +36,20 @@ namespace TelephoneDirectoryApp.Controllers
             ViewBag.Mgs = "Person has been saved.";
             return RedirectToAction("Index");
         }
+
+        public IActionResult Details(string id)
+        {
+            var database = client.GetDatabase("TelephoneDirectoryDb");
+            var tablePerson = database.GetCollection<Person>("Persons");
+            var tableContact = database.GetCollection<ContactInfo>("ContactInfo");
+            var person = tablePerson.Find(p => p.UUID == id).FirstOrDefault();
+            
+            var contactInfo = tableContact.Find(p => p.personUUID == id).ToList();
+            ViewBag.person = person;
+            ViewBag.contactInfo = contactInfo;
+            return View();
+        }
+
         public IActionResult CreateContact(string uuId)
         {
             return View(uuId); ;

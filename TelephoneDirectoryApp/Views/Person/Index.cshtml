@@ -7,7 +7,9 @@
 <h1>Index</h1>
 
 <p>
-    <a asp-action="Create">Create New</a>
+    <a asp-action="Create">Create New Person</a>
+    <hr />
+    <a asp-action="GeneratedReports">Generated Reports</a>
 </p>
 <table class="table">
     <thead>
@@ -45,7 +47,8 @@
             <td>
                 @Html.ActionLink("Details", "Details", new { id = item.UUID }) |
                 @Html.ActionLink("Add Contact Info", "CreateContact", new { id = item.UUID }) |
-                @Html.ActionLink("Delete", "Delete", new { id = item.UUID })
+                @Html.ActionLink("Delete", "Delete", new { id = item.UUID }) |
+                @Html.ActionLink("Generate Report", "Report", new { id = item.UUID })
             </td>
         </tr>
 }
