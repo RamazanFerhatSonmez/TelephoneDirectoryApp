@@ -1,0 +1,7 @@
+C:\Users\Ferhat\Desktop\TelephoneDirectoryApp\MicroServices\ContactService\Contact.Api\obj\Debug\net5.0\Contact.Api.csprojAssemblyReference.cache
+C:\Users\Ferhat\Desktop\TelephoneDirectoryApp\MicroServices\ContactService\Contact.Api\obj\Debug\net5.0\Contact.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ferhat\Desktop\TelephoneDirectoryApp\MicroServices\ContactService\Contact.Api\obj\Debug\net5.0\Contact.Api.AssemblyInfoInputs.cache
+C:\Users\Ferhat\Desktop\TelephoneDirectoryApp\MicroServices\ContactService\Contact.Api\obj\Debug\net5.0\Contact.Api.AssemblyInfo.cs
+C:\Users\Ferhat\Desktop\TelephoneDirectoryApp\MicroServices\ContactService\Contact.Api\obj\Debug\net5.0\Contact.Api.csproj.CoreCompileInputs.cache
+C:\Users\Ferhat\Desktop\TelephoneDirectoryApp\MicroServices\ContactService\Contact.Api\obj\Debug\net5.0\Contact.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Ferhat\Desktop\TelephoneDirectoryApp\MicroServices\ContactService\Contact.Api\obj\Debug\net5.0\Contact.Api.MvcApplicationPartsAssemblyInfo.cache

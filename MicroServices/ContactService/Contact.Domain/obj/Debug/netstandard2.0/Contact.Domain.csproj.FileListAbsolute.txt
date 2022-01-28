@@ -1,0 +1,9 @@
+C:\Users\Ferhat\Desktop\TelephoneDirectoryApp\MicroServices\ContactService\Contact.Domain\bin\Debug\netstandard2.0\Contact.Domain.deps.json
+C:\Users\Ferhat\Desktop\TelephoneDirectoryApp\MicroServices\ContactService\Contact.Domain\bin\Debug\netstandard2.0\Contact.Domain.dll
+C:\Users\Ferhat\Desktop\TelephoneDirectoryApp\MicroServices\ContactService\Contact.Domain\bin\Debug\netstandard2.0\Contact.Domain.pdb
+C:\Users\Ferhat\Desktop\TelephoneDirectoryApp\MicroServices\ContactService\Contact.Domain\obj\Debug\netstandard2.0\Contact.Domain.csprojAssemblyReference.cache
+C:\Users\Ferhat\Desktop\TelephoneDirectoryApp\MicroServices\ContactService\Contact.Domain\obj\Debug\netstandard2.0\Contact.Domain.AssemblyInfoInputs.cache
+C:\Users\Ferhat\Desktop\TelephoneDirectoryApp\MicroServices\ContactService\Contact.Domain\obj\Debug\netstandard2.0\Contact.Domain.AssemblyInfo.cs
+C:\Users\Ferhat\Desktop\TelephoneDirectoryApp\MicroServices\ContactService\Contact.Domain\obj\Debug\netstandard2.0\Contact.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Ferhat\Desktop\TelephoneDirectoryApp\MicroServices\ContactService\Contact.Domain\obj\Debug\netstandard2.0\Contact.Domain.dll
+C:\Users\Ferhat\Desktop\TelephoneDirectoryApp\MicroServices\ContactService\Contact.Domain\obj\Debug\netstandard2.0\Contact.Domain.pdb

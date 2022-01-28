@@ -1,0 +1,8 @@
+C:\Users\Ferhat\Desktop\TelephoneDirectoryApp\MicroServices\ContactService\Contact.Infastructure\bin\Debug\netstandard2.0\Contact.Infastructure.deps.json
+C:\Users\Ferhat\Desktop\TelephoneDirectoryApp\MicroServices\ContactService\Contact.Infastructure\bin\Debug\netstandard2.0\Contact.Infastructure.dll
+C:\Users\Ferhat\Desktop\TelephoneDirectoryApp\MicroServices\ContactService\Contact.Infastructure\bin\Debug\netstandard2.0\Contact.Infastructure.pdb
+C:\Users\Ferhat\Desktop\TelephoneDirectoryApp\MicroServices\ContactService\Contact.Infastructure\obj\Debug\netstandard2.0\Contact.Infastructure.AssemblyInfoInputs.cache
+C:\Users\Ferhat\Desktop\TelephoneDirectoryApp\MicroServices\ContactService\Contact.Infastructure\obj\Debug\netstandard2.0\Contact.Infastructure.AssemblyInfo.cs
+C:\Users\Ferhat\Desktop\TelephoneDirectoryApp\MicroServices\ContactService\Contact.Infastructure\obj\Debug\netstandard2.0\Contact.Infastructure.csproj.CoreCompileInputs.cache
+C:\Users\Ferhat\Desktop\TelephoneDirectoryApp\MicroServices\ContactService\Contact.Infastructure\obj\Debug\netstandard2.0\Contact.Infastructure.dll
+C:\Users\Ferhat\Desktop\TelephoneDirectoryApp\MicroServices\ContactService\Contact.Infastructure\obj\Debug\netstandard2.0\Contact.Infastructure.pdb
